@@ -4,3 +4,7 @@
     align-items: center;
     right: 50%;
 }
+
+.btn-primary{
+    background-color:red;
+}
